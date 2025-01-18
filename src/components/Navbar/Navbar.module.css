@@ -1,0 +1,26 @@
+.Content {
+  margin-left: 10px;
+  grid-area: B;
+  background-color: hsl(0, 5%, 84%);
+  min-width: 200px;
+  border-top-right-radius: 100px;
+  @media (max-width: 760px) {
+    margin-left: 0px;
+  }
+  @media (max-width: 290px) {
+    margin-left: 0px;
+  }
+}
+.link {
+  text-decoration: none;
+  font-size: 18px;
+  padding: 10px;
+  color: white;
+}
+.active {
+  color: black;
+  font-weight: 700;
+  font-size: 22px;
+  padding: 5px;
+  text-decoration: none;
+}

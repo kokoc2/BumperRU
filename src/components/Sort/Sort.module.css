@@ -1,0 +1,40 @@
+.Profile {
+  color: black;
+  padding: 10px;
+}
+.choice {
+  color: #0c78ed;
+  text-decoration: underline dotted;
+}
+.Popup {
+  position: absolute;
+  text-align: center;
+  width: 200px;
+  border: 1px solid black;
+  margin-left: 100px;
+  margin-top: 10px;
+  background-color: white;
+}
+.Popup ul {
+  list-style: none;
+  display: table;
+  margin: auto;
+  padding-left: 0;
+  width: 100%;
+}
+.Popup li {
+  padding-left: 1px;
+  height: 40px;
+  align-items: center;
+}
+.Popup li:hover {
+  background-color: #0c78ed;
+  color: white;
+}
+.active {
+  color: black;
+  font-weight: 500;
+  /* padding-top: 5px;
+  padding-bottom: 5px; */
+  text-decoration: none;
+}

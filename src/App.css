@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+.App-wrapper {
+  background-color: hsl(0, 10%, 98%);
+  padding-top: 15px;
+  display: grid;
+  grid-template-columns: 15% 85%;
+
+  grid-template-areas:
+    'A A'
+    'B C'
+    'D D';
+  @media (max-width: 800px) {
+    grid-template-columns: 20% 80%;
+  }
+  @media (max-width: 760px) {
+    margin-left: 0px;
+    grid-template-columns: 30% 70%;
+  }
+  @media (max-width: 290px) {
+    margin-left: 0px;
+    grid-template-columns: 40% 60%;
+  }
+}

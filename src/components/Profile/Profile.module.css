@@ -1,0 +1,9 @@
+.Profile {
+  grid-area: C;
+  background-color: hsl(0, 10%, 98%);
+}
+.Header {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 500;
+}

@@ -1,0 +1,33 @@
+.Body {
+  background-color: hsl(0, 10%, 98%);
+}
+.Block {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+  grid-column-gap: 10px;
+  grid-row-gap: 10px;
+  @media (max-width: 1440px) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  @media (max-width: 1060px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (max-width: 768px) {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+.News {
+  background-color: gray;
+  margin: 10px;
+}
+.blockSort {
+  font-size: 18px;
+  text-align: center;
+}
+.blockSort span {
+  font-weight: 700;
+  color: red;
+}

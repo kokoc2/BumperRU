@@ -1,0 +1,642 @@
+[
+  {
+    "id": 1,
+    "Name": "Капот Kia Rio 11 - API ",
+    "Price": 14700,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 2,
+    "Name": "Капот Kia Rio 11 - Начало ",
+    "Price": 10200,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 3,
+    "Name": "Крыло левое, правое Kia Rio 11 - API",
+    "Price": 6300,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 4,
+    "Name": "Крыло левое, правое Kia Rio 11 - Начало",
+    "Price": 4800,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 5,
+    "Name": "Капот Kia Rio 05 - Китай",
+    "Price": 17400,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 6,
+    "Name": "Крыло левое, правое Kia Rio 05 - Китай",
+    "Price": 8300,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 7,
+    "Name": "Капот Kia Rio 05 - Тайвань",
+    "Price": 17400,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 8,
+    "Name": "Крыло левое, правое Kia Rio 05 - Тайвань",
+    "Price": 8300,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 9,
+    "Name": "Капот Kia Rio 17 - Тайвань",
+    "Price": 16500,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 10,
+    "Name": "Капот Kia Rio 17 - Китай",
+    "Price": 13700,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 11,
+    "Name": "Крыло левое, правое Kia Rio 17 - Тайвань",
+    "Price": 7700,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 12,
+    "Name": "Двери передние, задние Kia Rio 05",
+    "Price": 20000,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 13,
+    "Name": "Двери передние, задние Kia Rio 11",
+    "Price": 16000,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 14,
+    "Name": "Дверь задняя левая, правая Kia Rio 11-х/б",
+    "Price": 21600,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 15,
+    "Name": "Дверь передние, задние Kia Rio 17",
+    "Price": 16000,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 16,
+    "Name": "Дверь задка Kia Rio 11-х/б",
+    "Price": 21000,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 17,
+    "Name": "Дверь задняя левая, правая Kia Rio 11-х/б",
+    "Price": 21600,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 18,
+    "Name": "Бампер передний Kia Rio 11-Россия",
+    "Price": 3100,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 19,
+    "Name": "Бампер задний Kia Rio 11 (Седан)",
+    "Price": 4900,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 20,
+    "Name": "Бампер задний Kia Rio 11 (х.б.)",
+    "Price": 9600,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 21,
+    "Name": "Бампер передний Kia Rio 15",
+    "Price": 3100,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 22,
+    "Name": "Бампер задний Kia Rio 15",
+    "Price": 7700,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 23,
+    "Name": "Бампер задний Kia Rio 15 (х/б)",
+    "Price": 13900,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 24,
+    "Name": "Бампер передний  Kia Rio 17",
+    "Price": 3100,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 25,
+    "Name": "Бампер задний Kia Rio 17",
+    "Price": 4500,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 26,
+    "Name": "Бампер передний Kia Rio 17 X-Line верх",
+    "Price": 9900,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 27,
+    "Name": "Бампер передний Kia Rio 17 X-Line низ",
+    "Price": 9900,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 28,
+    "Name": "Бампер задний Kia Rio 17 X-Line Верх",
+    "Price": 9900,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 29,
+    "Name": "Бампер задний Kia Rio 17 X-Line низ ",
+    "Price": 9900,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 30,
+    "Name": "Бампер передний Kia Rio 2020",
+    "Price": 10300,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 31,
+    "Name": "Бампер передний Kia Rio 2020 X-Line",
+    "Price": 10300,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 32,
+    "Name": "Бампер задний Kia Rio 2020 X-Line низ",
+    "Price": 9900,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 33,
+    "Name": "Бампер передний Kia Rio 2003 год",
+    "Price": 9600,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 34,
+    "Name": " Бампер передний Kia Rio 2005 год ",
+    "Price": 9600,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 35,
+    "Name": " Бампер передний Kia Rio 2009 год ",
+    "Price": 9600,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 36,
+    "Name": "Бампер задний Kia Rio 2009 год",
+    "Price": 10000,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 37,
+    "Name": "Накладка заднего бампера Kia Rio 11",
+    "Price": 2200,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 38,
+    "Name": "Накладка заднего бампера Kia Rio 15",
+    "Price": 2700,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 39,
+    "Name": " Накладка заднего бампера Kia Rio 17",
+    "Price": 3100,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 40,
+    "Name": "Решетка переднего бампера Kia Rio 2009 год",
+    "Price": 1500,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 41,
+    "Name": "Решетка радиатора Kia Rio 2009 год хромовая",
+    "Price": 1500,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 42,
+    "Name": "Решетка переднего бампера Kia Rio 2011",
+    "Price": 2000,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 43,
+    "Name": " Решетка радиатора Kia Rio 2011 год хромовая ",
+    "Price": 2200,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 44,
+    "Name": "Решетка переднего бампера Kia Rio 2015 хромовая",
+    "Price": 3400,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 45,
+    "Name": "Решетка радиатора Kia Rio 2015 хромовая",
+    "Price": 3500,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 46,
+    "Name": "Решетка переднего бампера Kia Rio 2017",
+    "Price": 2600,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 47,
+    "Name": "Решетка радиатора Kia Rio 2017 год",
+    "Price": 2500,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 48,
+    "Name": "Рамка радиатора Kia Rio 2011 год",
+    "Price": 5100,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 49,
+    "Name": "Рамка радиатора Kia Rio 2015 год",
+    "Price": 3500,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 50,
+    "Name": "Капот Hyundai Solaris (2011-2014) Тайвань",
+    "Price": 14600,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 51,
+    "Name": "Капот Renault Logan (до 2014г) API",
+    "Price": 14900,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 52,
+    "Name": "Капот Renault Logan (до 2014г) Россия",
+    "Price": 9200,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 53,
+    "Name": "Капот Renault Logan (с 2014г) API ",
+    "Price": 18200,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 54,
+    "Name": "Капот Renault Logan (с 2014г) Китай ",
+    "Price": 18200,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 55,
+    "Name": "Крыло Renault Logan левое, правое (до 2014) API",
+    "Price": 6900,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 56,
+    "Name": "Крыло Renault Logan левое, правое (до 2014) Россия",
+    "Price": 5300,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 57,
+    "Name": "Крыло Renault Logan левое, правое (с 2014) API с отв. ",
+    "Price": 8600,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 58,
+    "Name": "Крыло Renault Logan левое, правое (с 2014) Китай с отв.",
+    "Price": 8600,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 59,
+    "Name": "Крыло Renault Logan левое, правое (с 2014) без отв.",
+    "Price": 8600,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 60,
+    "Name": "Двери передние, задние Renault Logan",
+    "Price": 19200,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 61,
+    "Name": "Крышка багажника Renault Logan",
+    "Price": 19700,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 62,
+    "Name": "Двери передние, задние Renault Logan с 2014 г",
+    "Price": 20000,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 63,
+    "Name": "Крышка багажника Renault Logan с 2014 г",
+    "Price": 19700,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 64,
+    "Name": "Бампер передний (фаза 1) Renault Logan 2004-2009",
+    "Price": 3500,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 65,
+    "Name": "Бампер задний (фаза 1) Renault Logan 2004-2009",
+    "Price": 3700,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 66,
+    "Name": "Бампер передний (фаза 2) Renault Logan литой с решетками",
+    "Price": 3200,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 67,
+    "Name": "Бампер передний (фаза 2) Renault Logan литой с решетками с птф ",
+    "Price": 3200,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 68,
+    "Name": "Бампер передний (фаза2) пустой Renault Logan (2009-2014) ПФ",
+    "Price": 3600,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 69,
+    "Name": "Бампер задний (фаза 2) Renault Logan (2009-2014) Тайвань",
+    "Price": 9200,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 70,
+    "Name": "Бампер передний Renault Logan (с 2014)",
+    "Price": 4500,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 71,
+    "Name": "Бампер задний Renault Logan (с 2014) Тайвань",
+    "Price": 8200,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 72,
+    "Name": "Бампер передний Renault Logan (с 2018)",
+    "Price": 7200,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 73,
+    "Name": "Решетка бампера Renault Logan (фаза 1)",
+    "Price": 1500,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 74,
+    "Name": "Решетка бампера Renault Logan (фаза 2)",
+    "Price": 2500,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 75,
+    "Name": "Решетка радиатора Renault Logan (фаза 2)",
+    "Price": 3200,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 76,
+    "Name": "Абсорбер заднего бампера Renault Logan (фаза 2)",
+    "Price": 1500,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 77,
+    "Name": "Решетка радиатора Renault Logan с 2014",
+    "Price": 3000,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 78,
+    "Name": "Молдинг решетки Renault Logan c 2014",
+    "Price": 2500,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 79,
+    "Name": "Молдинг под фару Renault Logan с 2014",
+    "Price": 2000,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 80,
+    "Name": "Молдинг решетки радиатора Renault Logan (2009) хромовая ",
+    "Price": 2500,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  }
+]

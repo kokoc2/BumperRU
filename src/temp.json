@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "Name": "Капот Kia Rio 11 - API ",
+    "Price": 14700,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 2,
+    "Name": "Капот Kia Rio 11 - Начало ",
+    "Price": 10200,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 3,
+    "Name": "Крыло левое, правое Kia Rio 11 - API",
+    "Price": 6300,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 4,
+    "Name": "Крыло левое, правое Kia Rio 11 - Начало",
+    "Price": 4800,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 5,
+    "Name": "Капот Kia Rio 05 - Китай",
+    "Price": 17400,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 6,
+    "Name": "Крыло левое, правое Kia Rio 05 - Китай",
+    "Price": 8300,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 7,
+    "Name": "Капот Kia Rio 05 - Тайвань",
+    "Price": 17400,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 8,
+    "Name": "Крыло левое, правое Kia Rio 05 - Тайвань",
+    "Price": 8300,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 9,
+    "Name": "Капот Kia Rio 17 - Тайвань",
+    "Price": 16500,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 10,
+    "Name": "Капот Kia Rio 17 - Китай",
+    "Price": 13700,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 11,
+    "Name": "Крыло левое, правое Kia Rio 17 - Тайвань",
+    "Price": 7700,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 12,
+    "Name": "Двери передние, задние Kia Rio 05",
+    "Price": 20000,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 13,
+    "Name": "Двери передние, задние Kia Rio 11",
+    "Price": 16000,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 14,
+    "Name": "Дверь задняя левая, правая Kia Rio 11-х/б",
+    "Price": 21600,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 15,
+    "Name": "Дверь передние, задние Kia Rio 17",
+    "Price": 16000,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 16,
+    "Name": "Дверь задка Kia Rio 11-х/б",
+    "Price": 21000,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 17,
+    "Name": "Дверь задняя левая, правая Kia Rio 11-х/б",
+    "Price": 21600,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 18,
+    "Name": "Бампер передний Kia Rio 11-Россия",
+    "Price": 3100,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 19,
+    "Name": "Бампер задний Kia Rio 11 (Седан)",
+    "Price": 4900,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 20,
+    "Name": "Бампер задний Kia Rio 11 (х.б.)",
+    "Price": 9600,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 21,
+    "Name": "Бампер передний Kia Rio 15",
+    "Price": 3100,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 22,
+    "Name": "Бампер задний Kia Rio 15",
+    "Price": 7700,
+    "Rating": 6,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 23,
+    "Name": "Бампер задний Kia Rio 15 (х/б)",
+    "Price": 13900,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 24,
+    "Name": "Бампер задний Hyundai Solaris 15 (х/б)",
+    "Price": 9999999,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  },
+  {
+    "id": 25,
+    "Name": "Бампер задний Lada 2114 (х/б)",
+    "Price": 9999999,
+    "Rating": 5,
+    "Color": "Выбрать цвет",
+    "Src": "https://bamper-spb.ru/wp-content/uploads/2021/03/foto-vremenno-otsutstvuet-8.png"
+  }
+]

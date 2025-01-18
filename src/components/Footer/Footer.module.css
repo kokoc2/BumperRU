@@ -1,0 +1,62 @@
+.Footer {
+  grid-area: D;
+  display: flex;
+  /* align-items: center; */
+  justify-content: space-around;
+  background-color: hsl(0, 10%, 98%);
+  color: back;
+  @media (max-width: 1060px) {
+    flex-direction: column;
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+  }
+  margin: 0 10px;
+  margin-top: 15px;
+  border-top: 1px solid #c4cbcf;
+}
+img {
+  width: 20px;
+  margin-top: 4px;
+  margin-left: 1px;
+}
+
+.Chart {
+  display: flex;
+}
+.Block {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-template-areas: 'A B C D';
+  @media (max-width: 768px) {
+    grid-template-columns: 50% 50%;
+    grid-template-areas: 'A B';
+  }
+}
+a.Link:active, /* активная/посещенная ссылка */
+a.Link {
+  text-decoration: none;
+  color: #00000080;
+}
+a.Link:hover {
+  color: red;
+} /* при наведении */
+.Content {
+  margin: 15px 0;
+}
+.Content div {
+  padding-top: 5px;
+}
+.News {
+  padding: 0 10px;
+}
+.ContentHeader {
+  text-align: center;
+}
+.ContentTime {
+  padding-left: 30px;
+}
+.ContentTime span {
+  font-weight: 600;
+}

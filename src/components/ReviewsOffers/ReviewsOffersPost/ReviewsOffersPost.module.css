@@ -1,0 +1,12 @@
+.Profile{
+    border: 1px solid black;
+    width: 25%;
+    display: flex;
+}
+.Profile img{
+    width: 20%;
+    padding: 5px;
+}
+.text{
+    color: black;
+}

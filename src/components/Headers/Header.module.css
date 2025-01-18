@@ -1,0 +1,42 @@
+.Header {
+  grid-area: A;
+  background-color: hsl(0, 10%, 98%);
+}
+.Ava {
+  padding: 5px;
+  width: 300px;
+  text-align: center;
+}
+.Group {
+  text-decoration: none;
+}
+.Group img {
+  width: 20px;
+}
+.HeaderContent {
+  /* display: flex;
+  align-items: center;
+  justify-content: space-between;
+  @media (max-width: 1060px) {
+    flex-direction: column;
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+  }
+  @media (max-width: 768px) {
+    flex-direction: column;
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+  } */
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  @media (max-width: 768px) {
+    flex-direction: column;
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+    padding: 5px;
+  }
+}

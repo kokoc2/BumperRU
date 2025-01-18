@@ -1,0 +1,16 @@
+.Profile {
+  grid-area: C;
+  background-color: hsl(0, 10%, 98%);
+}
+.Header {
+  text-align: center;
+  padding: 20px;
+  font-size: 25px;
+  font-weight: 700;
+}
+.Content {
+  padding: 10px;
+}
+.Chart {
+  display: flex;
+}
