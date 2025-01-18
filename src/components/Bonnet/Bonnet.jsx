@@ -7,7 +7,7 @@ const Bonnet = () => {
   const [items, setItems] = React.useState([]);
   const [loading, setLoading] = React.useState(true);
   const [sortType, setSortType] = React.useState({
-    name: 'Популярности',
+    name: 'Популярности', // 123
     sortCategory: 'Rating',
   });
 
